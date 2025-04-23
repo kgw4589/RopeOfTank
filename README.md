@@ -1,5 +1,4 @@
 # Rope Of Tank
-![Image](https://github.com/user-attachments/assets/56d087da-882f-43a3-a377-83f467031e4a)
 
 ## 개요
 게임 엔진 수업 수행평가를 위해 제작되었습니다.    
