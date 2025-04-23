@@ -44,12 +44,12 @@
 * S - 탱크의 몸통을 기준으로 **후진**합니다.     
 * A - 몸통을 **반시계 방향으로 Y축 회전**시킵니다.      
 * D - 몸통을 **시계 방향으로 Y축 회전**시킵니다.      
-![Image](https://github.com/user-attachments/assets/47b0919c-2658-4ded-8dd7-2e9fdcb872ed)
+![Image](https://github.com/user-attachments/assets/ea25638f-8bc3-4f01-b351-0a354c65b8ce)
 
 **시점 회전**
 * Mouse X(마우스 가로 이동) - 포탑을 Y축 회전하고, 시점을 좌우로 돌립니다.
 * Mouse Y(마우스 세로 이동) - 포신을 X축 회전하고, 시점을 상하로 돌립니다.
-![Image](https://github.com/user-attachments/assets/ab2acce5-07a3-4ff9-8fa0-18741607157b)
+![Image](https://github.com/user-attachments/assets/65f0cbdd-205c-40b9-88ff-5b884bf45f21)
 
 ---
 
